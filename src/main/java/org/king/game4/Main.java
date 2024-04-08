@@ -1,4 +1,4 @@
-package org.king.game3;
+package org.king.game4;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
